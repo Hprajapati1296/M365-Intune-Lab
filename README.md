@@ -45,13 +45,10 @@ This project demonstrates the design, deployment, and management of a secure, sc
 * **Security Groups:** * `SEC-M365-Admins`: Privileged access for administrative accounts.
     * `SEC-Intune-Pilot`: Change management testing group.
     * `SEC-Finance-Access`: Department-specific resource locking.
+ 
+  
+Author: Himanshu Prajapati
 
-## 📁 Repository Structure
-```text
-├── README.md              <-- (You are here)
-├── /documentation         <-- Full PDF version of the portfolio
-├── /screenshots           <-- Proof of compliance and configurations
-│   ├── active-users.png
-│   ├── pilot-group.png
-│   ├── compliance-success.png
-│   └── teams-infrastructure.png
+Location: Kitchener, Ontario, Canada
+
+Focus: Cloud Support | M365 & Intune Administration
